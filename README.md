@@ -12,7 +12,7 @@
 > Aplicação dos princípios do SOLID para desenvolvimento de API Node com Express
 
 <p align="center">
-  <img alt="Preview" src="./docs/solid.png">
+  <img alt="Preview" src="./docs/project.png">
 </p>
 
 ## Install

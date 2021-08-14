@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/fah_ds" target="_blank">
-    <img alt="Twitter: fah_ds" src="https://img.shields.io/twitter/follow/fah_ds.svg?style=social" />
+  <a href="https://twitter.com/fabioods" target="_blank">
+    <img alt="Twitter: fabioods" src="https://img.shields.io/twitter/follow/fabioods.svg?style=social" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ enviar um e-mail de boas vindas.
 
 👤 **Fábio dos Santos**
 
-- Twitter: [@fah_ds](https://twitter.com/fah_ds)
+- Twitter: [@fabioods](https://twitter.com/fabioods)
 - Github: [@fabioods](https://github.com/fabioods)
 - LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
 
